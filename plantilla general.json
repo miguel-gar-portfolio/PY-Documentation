@@ -1,0 +1,95 @@
+{ "name" : "instance" , 
+	"children" : 
+	[{ 
+	"name": "ddbb1",
+	"children": [{
+		"name": "scheme1",
+		"children": [{
+			"name": "table category",
+			"children" : [{
+				"name":"table name",
+				"children":[{
+					"name" : "table description"
+					}]
+		}]},
+		{"name": "views category",
+			"children" : [{
+				"name":"view name"
+		}]},
+		{"name": "PA category",
+			"children" : [{
+				"name":"PA name"
+		}]}]
+			},
+			{
+		"name": "scheme2",
+		"children": [{
+			"name": "table category",
+			"children" : [{
+				"name":"table name",
+				"children":[{
+					"name" : "table description"
+					}]
+		}]},
+		{"name": "views category",
+			"children" : [{
+				"name":"view name"
+		}]},
+		{"name": "PA category",
+			"children" : [{
+				"name":"PA name"
+		}]}]
+			}
+		]
+	},
+	{
+	"name" : "Jobs",
+	"children" : [
+		{
+		"name" : "job 1's name", 
+		"children" : [{
+			"name" : "step 1 name",
+			"children" : [{
+				"name" : "command step 1"
+				}]
+			},
+			{
+			"name" : "step 2 name",
+			"children" : [{
+				"name" : "command step 2"
+				}]
+			},
+			{
+			"name" : "last step name",
+			"children" : [{
+				"name" : "command last step"
+				}]
+			}         
+			]
+		},
+		{
+		"name" : "job 2's name", 
+		"children" : [{
+			"name" : "step 1 name",
+			"children" : [{
+				"name" : "command step 1"
+				}]
+			},
+			{
+			"name" : "step 2 name",
+			"children" : [{
+				"name" : "command step 2"
+				}]
+			},
+			{
+			"name" : "last step name",
+			"children" : [{
+				"name" : "command last step"
+				}]
+			}         
+			]
+		}
+		]
+	}
+	]	
+}
