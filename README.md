@@ -1,1 +1,9 @@
-Este proyecto fue el primero que se me encargó en la empresa, y buscaba documentar de una forma clara, en un diagrama, la totalidad de los objetos que componen la base de datos de la compañía. Tras un periodo de investigación encontré una forma amable y dinámica de visualización proporcionada por JavaObservable a partir de un código en JavaScript publicado por .... .Esta representación es un diagrama de árbol dinámico cuyas ramas se expanden o contraen según lo requiera el visor. Esto facilita sobremanera la presentabilidad, dada la gran cantidad de ramas que componen el árbol. Más tarde, se procedió por otras vías por no tener esta representación una opción de búsqueda. La continuación de esta resolución se encuentra [aquí][https://github.com/miguel-gar-portfolio/SQL-instances_documentation]
+## Descripción del proyecto
+
+Este proyecto fue el primero que se me encargó en la empresa, y buscaba documentar de una forma clara, en un diagrama, la totalidad de los objetos que componen la base de datos de la compañía.
+
+Tras un periodo de investigación, encontré una forma amable y dinámica de visualización proporcionada por **JavaObservable**, a partir de un código en JavaScript publicado por otra fuente. Esta representación consiste en un **diagrama de árbol dinámico**, cuyas ramas se expanden o contraen según lo requiera el visor. 
+
+Esto facilita sobremanera la presentabilidad, dada la gran cantidad de ramas que componen el árbol.
+
+Más tarde, se procedió por otras vías, al no disponer esta representación de una opción de búsqueda. La continuación de esta resolución se encuentra [aquí](https://github.com/miguel-gar-portfolio/SQL-instances_documentation).
